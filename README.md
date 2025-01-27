@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/cryptic-technomage/cryptic-technomage/main/banner-img.gif)](https://sage-beignet-3c92f1.netlify.app)
 
 
-<h2 align="center" style="font-size: 36px; font-weight: 800;">Hi 👋, I'm Sandeep</h2>
+<h1 align="center" style="font-size: 36px; font-weight: 800;">Hi 👋, I'm Sandeep</h1>
 <h3 align="center" style="font-size: 24px; font-weight: 700;">
   🚀 Passionate about Web Development & AI/ML 🚀
 </h3>
