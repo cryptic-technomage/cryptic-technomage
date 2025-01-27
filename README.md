@@ -38,11 +38,10 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cryptic-technomage&theme=default_repocard&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cryptic-technomage&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic-technomage&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=cryptic-technomage&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptic-technomage&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptic-technomage&" alt="cryptic-technomage" /></p>
 
 ````
-
