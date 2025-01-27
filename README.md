@@ -35,7 +35,7 @@
 <p><a href="https://www.buymeacoffee.com/s_cryptic_technomage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="s_cryptic_technomage" /></a></p>
 
 <br>
-<br>
+<br><br><br>
 
 ## 📊 GitHub Stats:
 
