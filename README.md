@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">Passionate about Web Development & AI/ML</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptic-technomage&label=Profile%20views&color=0e75b6&style=flat" alt="cryptic-technomage" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sage-beignet-3c92f1.netlify.app](https://sage-beignet-3c92f1.netlify.app)
@@ -27,6 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/s_cryptic_technomage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="s_cryptic_technomage" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptic-technomage&show_icons=true&locale=en&layout=compact" alt="cryptic-technomage" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptic-technomage&show_icons=true&locale=en&layout=compact" alt="cryptic-technomage" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptic-technomage&show_icons=true&locale=en" alt="cryptic-technomage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptic-technomage&" alt="cryptic-technomage" /></p>
