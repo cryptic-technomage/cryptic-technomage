@@ -7,13 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptic-technomage&label=Profile%20views&color=0e75b6&style=flat" alt="cryptic-technomage" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sage-beignet-3c92f1.netlify.app](https://sage-beignet-3c92f1.netlify.app)
+# 💫 About Me:
+👨‍💻 All of my projects are available at  [https://sage-beignet-3c92f1.netlify.app](https://sage-beignet-3c92f1.netlify.app)<br><br>
+💬 Ask me about  **Python, React**<br><br>
+📫 How to reach me  **sandeepkiran539@gmail.com**<br><br>
+⚡ Fun fact  **I run on coffee and code!**
 
-- 💬 Ask me about **Python, React**
-
-- 📫 How to reach me **sandeepkiran539@gmail.com**
-
-- ⚡ Fun fact **I run on coffee and code!**
 
 ## 💬 Connect with me:
 <p align="left">
