@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/a0a9f9e15354c2ce05d7939b2bb024e55fbb9927c540d1e44351e553a5ff2bad/68747470733a2f2f692e6962622e636f2f6246735a44517a2f363837343734373037333361326632663664363137323735363633303330333132643664373432653637363937343638373536323265363936663266353037323635366436393735366432643434363536633639373636353732373932663737363536322e676966)](https://sage-beignet-3c92f1.netlify.app)
+[![MasterHead](https://raw.githubusercontent.com/cryptic-technomage/cryptic-technomage/main/banner-img.gif)](https://sage-beignet-3c92f1.netlify.app)
+
 <h1 align="center" style="font-size: 36px; font-weight: 800;">Hi 👋, I'm Sandeep</h1>
 <h3 align="center" style="font-size: 24px; font-weight: 700;">
   🚀 Passionate about Web Development & AI/ML 🚀
