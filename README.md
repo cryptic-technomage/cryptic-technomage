@@ -13,7 +13,7 @@
 📫 How to reach me  **sandeepkiran539@gmail.com**<br><br>
 ⚡ Fun fact  **I run on coffee and code!**
 
-
+<br><br><br>
 ## 💬 Connect with me:
 <p align="left">
 <a href="https://twitter.com/cryptic_techno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cryptic_techno" height="30" width="40" /></a>
